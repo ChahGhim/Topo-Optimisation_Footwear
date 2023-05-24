@@ -1,0 +1,25 @@
+{
+    "inputs": [
+        {
+            "name": "Cellsize",
+            "type": "vector",
+            "value": [
+                2.0,
+                2.0,
+                2.0
+            ],
+            "units": "mm"
+        },
+        {
+            "name": "Thickness",
+            "type": "scalar",
+            "value": 0.09999999999999998,
+            "units": "mm"
+        },
+        {
+            "name": "LatticeType",
+            "type": "enum",
+            "value": 5
+        }
+    ]
+}

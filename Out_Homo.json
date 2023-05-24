@@ -1,0 +1,48 @@
+[
+    {
+        "components": [
+            {
+                "components": [],
+                "type": "text",
+                "value": {
+                    "string": "68067360"
+                }
+            },
+            {
+                "components": [],
+                "type": "text",
+                "value": {
+                    "string": "47783596"
+                }
+            },
+            {
+                "components": [],
+                "type": "text",
+                "value": {
+                    "string": "9372326"
+                }
+            }
+        ],
+        "name": "Materiau text",
+        "type": "text_list",
+        "value": {
+            "dim": {},
+            "value": [
+                {
+                    "string": "68067360"
+                },
+                {
+                    "string": "47783596"
+                },
+                {
+                    "string": "9372326"
+                }
+            ],
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
